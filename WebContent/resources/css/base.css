@@ -1,0 +1,57 @@
+@charset "utf-8";
+.ui-widget,
+.ui-widget .ui-widget
+{
+    font-size: 90% !important;
+}
+
+.ui-menubar   {mouseover: black; background-color: #FFFFFF !important; font:bold;  font-weight: bold; background: #FFFFFF;}
+.ui-state-hover {cursor:hand ;background-color: #FFFFFF !important; background: black; font:  bold; }
+
+.tabla{
+      border: solid 2px #168B1B ;
+      border-collapse: collapse;
+      color: #424242;
+      font-weight: bold;
+}
+.cabeceraTabla{
+  color: #FFFFFF; 
+  background: #168B1B;
+  padding:5px;
+}
+.fila1{
+  text-align: center;
+  background:#FFFFFF;
+ 
+  }
+.fila2{
+  text-align: center;
+  background:#168B1B;
+  border: solid 2px #168B1B;
+  }
+  .msjError{
+    color: #FF0000;
+    font-weight: bold;
+    margin: 0px 0px 0px 15px;
+}
+.form{
+  border: solid 2px #168B1B;
+  width: 95%;
+  padding: 20px;
+}
+.label{
+  color: #168B1B;  
+  font-size: 13px;  
+  font:  bold;
+  text-align: left;
+}
+.titulo{
+  color: #168B1B;
+  font: bold;
+  font-size: 16px;
+}
+.text{
+  color: black;  
+  font-size: 13px;  
+  font:  bold;
+}
